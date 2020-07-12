@@ -1,8 +1,8 @@
 <div>
 <h1> 👋 Hi, I'm Vignesh </h1>
 
-|Get in touch! | <a href="https://vigneshjoglekar.com"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Logo.svg" width="25" height="25"> </a> | <a href="https://twitter.com/Vigasaurus"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Twitter.svg" width="25" height="25"> </a> | <a href="mailto:hey@vigneshjoglekar.com"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Gmail.svg" width="25" height="25"> </a> |
-|---|---|---|---|
+|<a href="https://vigneshjoglekar.com"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Logo.svg" width="25" height="25"> </a> | <a href="https://twitter.com/Vigasaurus"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Twitter.svg" width="25" height="25"> </a> | <a href="mailto:hey@vigneshjoglekar.com"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Gmail.svg" width="25" height="25"> </a> |
+|---|---|---|
 
 <!-- <a href="">
 	<img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/LinkedIn.svg" width="25" height="25">
