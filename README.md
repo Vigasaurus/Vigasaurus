@@ -34,6 +34,7 @@
 - 💼 Currently working on <a href="https://potluckparty.com/"><img src="./images/PLP-logo.png" style="height: 1em;"> Potluck Party</a> - <strong>Launching Q3 2020</strong>
 <br>
 <br>
+
 - 🌟 Maintaining <a href="https://github.com/cozuya/secret-hitler/"><img src="./images/SH-logo.png" style="height: 1em;"> SecretHitler.io</a>
 - 💯 Working to grow <a href="https://www.aggiedevelopers.com/"><img src="./images/AWD-logo.png" style="height: 1em;"> Aggie Web Developers</a>
 - 🌱 Currently learning more JavaScript
