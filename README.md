@@ -1,18 +1,40 @@
-<div style="display: inline-block">
-<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-<p>Under Construction!</p>
+<div style="width: 100%; display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center">
+
+<div style="margin-top: 15px; width: 85%">
+<h1> 👋 Hi, I'm Vignesh </h1>
+
+<div style="display: flex; align-items: flex-end; justify-content: space-around;">
+<h4 style="margin-right: 5px; line-height: 1px;">Get in touch!</h4>
+<a href="https://vigneshjoglekar.com">
+	<img src="./images/Logo.svg" width="25" height="25" style="">
+</a>
+<a href="https://twitter.com/Vigasaurus">
+	<img src="./images/Twitter.svg" width="25" height="25" style="">
+</a>
+<a href="mailto:hey@vigneshjoglekar.com">
+	<img src="./images/Gmail.svg" width="25" height="25" style="">
+</a>
+<!-- <a href="">
+	<img src="./images/LinkedIn.svg" width="25" height="25" style="">
+</a> -->
 </div>
-<!--
-**Vigasaurus/Vigasaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<span style="margin: 15px 0 0 15px;">
+<img src="./images/profile.png" style="max-width: 175px; max-height: 175px;">
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- <img src="./images/Typescript.svg" style="height: 1em;"> Full-Stack JavaScript Developer
+- 🎓 Student at Texas A&M, class of '22
+	- B.S. Computer Science
+	- Cybersecurity Minor
+	- Business Minor
+- 💼 Currently working on <a href="https://potluckparty.com/"><img src="./images/PLP-logo.png" style="height: 1em;"> Potluck Party</a> - <strong>Launching Q3 2020</strong>
+<br>
+<br>
+- 🌟 Maintaining <a href="https://github.com/cozuya/secret-hitler/"><img src="./images/SH-logo.png" style="height: 1em;"> SecretHitler.io</a>
+- 💯 Working to grow <a href="https://www.aggiedevelopers.com/"><img src="./images/AWD-logo.png" style="height: 1em;"> Aggie Web Developers</a>
+- 🌱 Currently learning more JavaScript
+- 🌐 Pronouns: he/him
