@@ -20,9 +20,9 @@
 </div>
 </div>
 
-<span style="margin: 15px 0 0 15px;">
-<img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/profile.png" style="max-width: 175px; max-height: 175px;">
-</span>
+<div style="margin: 15px 0 0 15px;">
+<img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/profile.png" width="175" height="175">
+</div>
 
 </div>
 
