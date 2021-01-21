@@ -10,7 +10,7 @@
 </a> -->
 
 - <a href='#'><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Typescript.svg" height="20" width="20"></a> Full-Stack JavaScript Developer
-- 💼 Currently working on <a href="https://potluckparty.com/"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/PLP-logo.png" height="20" width="20"> Potluck Party</a> - **Launching Q4 2020**
+- 💼 Currently working on <a href="https://potluckparty.com/"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/PLP-logo.png" height="20" width="20"> Potluck Party</a> - **Launching Publicly 2021**
 - 🎓 Student at Texas A&M, class of '22
 	- B.S. Computer Science
 	- Cybersecurity Minor
