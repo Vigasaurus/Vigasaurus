@@ -1,7 +1,7 @@
 <div>
 <h1> 👋 Hi, I'm Vignesh </h1>
 
-<a href="https://vigneshjoglekar.com/?utm_medium=profile&utm_source=github&utm_campaign=readme"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Logo.svg" width="75" height="40"></a>
+<a href="https://vigneshjoglekar.com/?utm_medium=profile&utm_source=GitHub&utm_campaign=readme"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Logo.svg" width="75" height="40"></a>
 <a href="https://twitter.com/Vigasaurus"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Twitter.svg" width="75" height="40"></a>
 <a href="mailto:hey@vigneshjoglekar.com"><img src="https://github.com/Vigasaurus/Vigasaurus/raw/master/images/Gmail.svg" width="75" height="40"></a>
 
